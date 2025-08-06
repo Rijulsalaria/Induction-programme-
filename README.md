@@ -35,6 +35,10 @@ Rijul Kumar, IT Department GNDEC Ludhiana
 
 🗓️ Day 3 – 2 August 2025
 
+> _"Filled with energy, inspiration, and meaningful learning!"_
+
+---
+
 ## 🧪 Interactive Session: Dr. Jaswinder Singh  
 🎉 The day started with an engaging session by **Dr. Jaswinder Singh**, renowned for his **"JaswinS Lab on Wheels"** initiative 🚌🔬
 
