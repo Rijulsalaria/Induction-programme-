@@ -1,6 +1,6 @@
-- Name:Rijul Kumar
-- Branch:IT-C
-- Registration Number:25101003
+- Name: Rijul Kumar
+- Branch: IT-C
+- Registration Number: 25101003
 - WhatsApp Number: 7018139644
 - Email: salariarijul0@gmail.com 
 
