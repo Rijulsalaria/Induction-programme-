@@ -41,8 +41,6 @@ Rijul Kumar, IT Department GNDEC Ludhiana
 
 > _"Filled with energy, inspiration, and meaningful learning!"_
 
----
-
 ## 🧪 Interactive Session: Dr. Jaswinder Singh  
 🎉 The day started with an engaging session by **Dr. Jaswinder Singh**, renowned for his **"JaswinS Lab on Wheels"** initiative 🚌🔬
 
@@ -50,8 +48,6 @@ He brought **Physics** ⚛️ and **Mathematics** ➗ to life using simple, yet 
 His fun and refreshing teaching style made even complex concepts feel easy and exciting 🎈
 
 > _“Learning should be fun – and today, it truly was!”_
-
----
 
 ## 🌱 Session on Universal Human Values – Dr. Priya Darshni  
 Next, we explored the importance of values with **Dr. Priya Darshni** 🧘‍♀️  
@@ -63,8 +59,6 @@ Her session was deeply thought-provoking and helped us reflect on:
 
 > _"It's not just about being a good student – it's about being a good human."_
 
----
-
 ## 🎤 Chief Guest Address – S. Gurcharan Singh Grewal  
 We were honored by the presence of **S. Gurcharan Singh Grewal**, Secretary of SGPC 🙏  
 His words were powerful and encouraging, urging us to:
@@ -75,16 +69,12 @@ His words were powerful and encouraging, urging us to:
 
 > _"Discipline today leads to success tomorrow."_
 
----
-
 ## 📊 Reflective Session – Test Feedback  
 In the final session of the day, we reviewed our **English and Math Proficiency Test** results from Day 2 🧾
 
 - 🔍 Understood our current skill levels  
 - 📌 Identified areas to improve  
 - 👨‍🏫 Received guidance from faculty for next steps  
-
----
 
 ## ✅ Final Thoughts  
 Day 3 gave us:
@@ -95,3 +85,5 @@ Day 3 gave us:
 - 🚀 Motivation to Move Forward
 
 Let’s carry this energy forward into the coming days! 🌟
+
+___
