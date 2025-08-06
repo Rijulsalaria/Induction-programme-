@@ -33,11 +33,7 @@ Rijul Kumar, IT Department GNDEC Ludhiana
 - 🎉 Launch of Induction Activities
 
 
-# 📘 Day 3 – GNDEC Induction Program
-
-> _"Filled with energy, inspiration, and meaningful learning!"_
-
----
+🗓️ Day 3 – 2 August 2025
 
 ## 🧪 Interactive Session: Dr. Jaswinder Singh  
 🎉 The day started with an engaging session by **Dr. Jaswinder Singh**, renowned for his **"JaswinS Lab on Wheels"** initiative 🚌🔬
