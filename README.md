@@ -87,3 +87,91 @@ Day 3 gave us:
 Let’s carry this energy forward into the coming days! 🌟
 
 ___
+
+---
+title: "Day 4 & Day 5 – Induction Program Highlights"
+date: 2025-08-07
+layout: post
+categories: induction gndec
+---
+
+# 🌟 Day 4 – Induction Program Highlights
+
+## 📘 English Lecture – *Communication Skills*
+An insightful session focused on the essentials of effective communication:
+- 🗣️ Verbal & non-verbal communication
+- 👂 Active listening skills
+- 💬 Importance of clarity and confidence while expressing ideas  
+> Emphasized the role of communication in academics, personal life, and professional environments.
+
+---
+
+## 🧪 Chemistry Lecture – *Chemistry in Daily Life*
+Explored the real-world impact of chemistry through practical examples:
+- 🧂 Chemistry in cooking, cleaning, medicine, and emotions
+- 🔁 Daily chemical reactions simplified
+- 🧠 Bridged textbook concepts with real-life situations  
+> Helped us appreciate chemistry beyond the classroom.
+
+---
+
+## ☕ Break  
+1-hour refreshment and relaxation break.
+
+---
+
+## 🌱 *Universal Human Values – Part 2* by Dr. Priyadarshni
+A session on emotional intelligence and moral development:
+- ❤️ Empathy, respect, and harmony
+- 🌈 Positive mindset and responsible behavior
+- 🔍 Reflecting on personal ethics and social responsibility  
+> Encouraged self-reflection and values-based living.
+
+---
+
+## 💻 *Cosmic Club* – Laptop Awareness Session
+Practical and tech-oriented session for digital readiness:
+- 💾 Overview of components: CPU, RAM, storage, etc.
+- 🧽 Tips for laptop care & maintenance
+- 🧠 Best practices for educational use  
+> Especially helpful for beginners in digital learning.
+
+---
+
+## ✅ **Summary**
+Day 4 blended:
+- 📚 Academic knowledge (English + Chemistry)
+- 🌟 Personal development (Human Values)
+- 🖥️ Technical skills (Laptop use)
+
+---
+
+# 🌟 Day 5 – Induction Program Highlights
+
+## ➕ Maths Lecture
+- 🧮 Syllabus overview and future applications
+- 🔧 Real-life use cases and connection to engineering
+
+---
+
+## 👨‍💻 P2P Session – *C++ Basics*
+- 👨‍🎓 Conducted by seniors – Peer-to-peer format
+- 💡 Introduction to programming & C++ fundamentals
+- 🚀 Motivation to start technical learning early
+
+---
+
+## ⚡ BEEE Lecture – *Basic Electrical and Electronics Engineering*
+- 📘 Overview of syllabus and subject flow
+- 🔌 Explained real-world connection with our branch
+- 🛠️ Applications of BEEE in engineering and industry
+
+---
+
+## ✅ **Summary**
+Day 5 focused on:
+- 📐 Analytical thinking (Maths)
+- 💻 Programming foundation (C++)
+- 🔌 Core engineering subject (BEEE)
+
+> 🔚 A productive day giving us clarity on our academic path and technical direction.
