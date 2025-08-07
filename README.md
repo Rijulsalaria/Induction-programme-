@@ -88,13 +88,6 @@ Let’s carry this energy forward into the coming days! 🌟
 
 ___
 
----
-title: "Day 4 & Day 5 – Induction Program Highlights"
-date: 2025-08-07
-layout: post
-categories: induction gndec
----
-
 # 🌟 Day 4 – Induction Program Highlights
 
 ## 📘 English Lecture – *Communication Skills*
