@@ -168,3 +168,48 @@ Day 5 focused on:
 - 🔌 Core engineering subject (BEEE)
 
 > 🔚 A productive day giving us clarity on our academic path and technical direction.
+
+---
+
+# 📅 Day 6 – 6 August 2025 (Wednesday)
+
+## ⏰ 9:30 AM – 10:30 AM  
+### 📚 P2P Lecture  
+- Covered **key concepts** of Peer-to-Peer (P2P) systems.  
+- Discussed **basic communication models** and their practical applications.  
+
+---
+
+## ⏰ 10:30 AM – 11:30 AM  
+### ⚡ BEEE Lecture  
+- Introduction to **electrical components**.  
+- Real-life applications of these components in **various systems**.  
+
+---
+
+## ⏰ 11:30 AM – 12:30 PM  
+### ☕ Break  
+
+---
+
+## ⏰ 12:30 PM – 2:00 PM  
+### 🎤 Lecture by **Dr. Arvind Dhingra** – *Auditorium*  
+- **Designation**: Director, STEP & Incharge – TAC.  
+- Introduced the **technical and entrepreneurial ecosystem** of the institution.  
+- Motivated students to **explore innovation and startups**.  
+
+---
+
+## ⏰ 2:00 PM – 3:00 PM  
+### 🎓 Expert Lecture by **Mr. Jasvir Singh Sekhon** – *Auditorium*  
+- **Designation**: District Resource Person – STEM.  
+- Emphasized the **significance of STEM** in the evolving tech world.  
+- Encouraged **active participation** in STEM initiatives.  
+
+---
+
+## ⏰ 3:00 PM – 4:00 PM  
+### 🎓 Expert Lecture by **Dr. Lakhvir Singh Khana** – *Auditorium*  
+- **Designation**: Incharge – CML.  
+- Focused on **collaborative modern learning methods**.  
+- Highlighted how adapting to **tech-driven approaches** can benefit students in the **long term**.
