@@ -97,8 +97,6 @@ An insightful session focused on the essentials of effective communication:
 - 💬 Importance of clarity and confidence while expressing ideas  
 > Emphasized the role of communication in academics, personal life, and professional environments.
 
----
-
 ## 🧪 Chemistry Lecture – *Chemistry in Daily Life*
 Explored the real-world impact of chemistry through practical examples:
 - 🧂 Chemistry in cooking, cleaning, medicine, and emotions
@@ -106,12 +104,8 @@ Explored the real-world impact of chemistry through practical examples:
 - 🧠 Bridged textbook concepts with real-life situations  
 > Helped us appreciate chemistry beyond the classroom.
 
----
-
 ## ☕ Break  
 1-hour refreshment and relaxation break.
-
----
 
 ## 🌱 *Universal Human Values – Part 2* by Dr. Priyadarshni
 A session on emotional intelligence and moral development:
@@ -120,8 +114,6 @@ A session on emotional intelligence and moral development:
 - 🔍 Reflecting on personal ethics and social responsibility  
 > Encouraged self-reflection and values-based living.
 
----
-
 ## 💻 *Cosmic Club* – Laptop Awareness Session
 Practical and tech-oriented session for digital readiness:
 - 💾 Overview of components: CPU, RAM, storage, etc.
@@ -129,15 +121,12 @@ Practical and tech-oriented session for digital readiness:
 - 🧠 Best practices for educational use  
 > Especially helpful for beginners in digital learning.
 
----
-
 ## ✅ **Summary**
 Day 4 blended:
 - 📚 Academic knowledge (English + Chemistry)
 - 🌟 Personal development (Human Values)
 - 🖥️ Technical skills (Laptop use)
 
----
 
 # 🌟 Day 5 – Induction Program Highlights
 
@@ -207,22 +196,22 @@ Day 5 focused on:
 ### 🎤 Lecture by **Dr. Amit Kamra** – *Auditorium*  
 - **Designation**: Incharge, DMC.  
 - Highlighted the **role and importance** of the **Digital Media Cell** in:  
-  - Student engagement  
-  - College activities  
+- Student engagement  
+- College activities  
 
 ## ⏰ 10:30 AM – 11:30 AM  
 ### 🎤 Lecture by **Dr. Parminder Singh** – *Auditorium*  
 - **Designation**: Dean of Student Welfare.  
 - Discussed:  
-  - **Student well-being** and available **support systems**  
-  - **Co-curricular opportunities** on campus  
+- **Student well-being** and available **support systems**  
+- **Co-curricular opportunities** on campus  
 
 ## ⏰ 11:30 AM – 12:30 PM  
 ### 🎤 Lecture by **Dr. Randhir Singh** – *Auditorium*  
 - Provided orientation on:  
-  - **Conduct of examinations**  
-  - **Attendance criteria**  
-  - **Internal assessments**  
+- **Conduct of examinations**  
+- **Attendance criteria**  
+- **Internal assessments**  
 - Ensured students are **well-informed from the start**.  
 
 ## ⏰ 12:30 PM – 1:30 PM  
@@ -231,9 +220,9 @@ Day 5 focused on:
 ## ⏰ 1:30 PM – 2:30 PM  
 ### 📘 English Lecture  
 - Covered:  
-  - **Syllabus structure**  
-  - **Types of assignments**  
-  - **Evaluation pattern**  
+- **Syllabus structure**  
+- **Types of assignments**  
+- **Evaluation pattern**  
 - Guidance on **improving formal writing** and **communication skills**.  
 
 ## ⏰ 2:30 PM – 3:30 PM  
@@ -241,8 +230,8 @@ Day 5 focused on:
 - Continued **syllabus overview**.  
 - Brief discussion on **initial chapter**.  
 - Explained:  
-  - **Lab schedule**  
-  - **Assessment process**.
+- **Lab schedule**  
+- **Assessment process**.
 ___
 
 # 📅 Day 8 – 8 August 2025 (Friday)
@@ -251,14 +240,14 @@ ___
 ### 📐 Mathematics Lecture  
 - **Revision session** on **differential equations**.  
 - Reviewed:  
-  - **Key concepts**  
-  - **Common problem types**  
+- **Key concepts**  
+- **Common problem types**  
 - Aim: Strengthen understanding and problem-solving speed.  
 
 ## ⏰ 10:30 AM – 12:00 PM  
 ### 🎤 Lecture by **Prof. Jaswant Singh**  
 - Focus: **Problem-solving techniques**.  
 - Covered:  
-  - **Logical reasoning methods**  
-  - **Strategies** to approach academic challenges more effectively.  
+- **Logical reasoning methods**  
+- **Strategies** to approach academic challenges more effectively.  
 - Interactive examples to engage students in **critical thinking**.
