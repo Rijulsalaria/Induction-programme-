@@ -145,21 +145,16 @@ Day 4 blended:
 - 🧮 Syllabus overview and future applications
 - 🔧 Real-life use cases and connection to engineering
 
----
 
 ## 👨‍💻 P2P Session – *C++ Basics*
 - 👨‍🎓 Conducted by seniors – Peer-to-peer format
 - 💡 Introduction to programming & C++ fundamentals
 - 🚀 Motivation to start technical learning early
 
----
-
 ## ⚡ BEEE Lecture – *Basic Electrical and Electronics Engineering*
 - 📘 Overview of syllabus and subject flow
 - 🔌 Explained real-world connection with our branch
 - 🛠️ Applications of BEEE in engineering and industry
-
----
 
 ## ✅ **Summary**
 Day 5 focused on:
@@ -178,19 +173,13 @@ Day 5 focused on:
 - Covered **key concepts** of Peer-to-Peer (P2P) systems.  
 - Discussed **basic communication models** and their practical applications.  
 
----
-
 ## ⏰ 10:30 AM – 11:30 AM  
 ### ⚡ BEEE Lecture  
 - Introduction to **electrical components**.  
 - Real-life applications of these components in **various systems**.  
 
----
-
 ## ⏰ 11:30 AM – 12:30 PM  
 ### ☕ Break  
-
----
 
 ## ⏰ 12:30 PM – 2:00 PM  
 ### 🎤 Lecture by **Dr. Arvind Dhingra** – *Auditorium*  
@@ -198,18 +187,78 @@ Day 5 focused on:
 - Introduced the **technical and entrepreneurial ecosystem** of the institution.  
 - Motivated students to **explore innovation and startups**.  
 
----
-
 ## ⏰ 2:00 PM – 3:00 PM  
 ### 🎓 Expert Lecture by **Mr. Jasvir Singh Sekhon** – *Auditorium*  
 - **Designation**: District Resource Person – STEM.  
 - Emphasized the **significance of STEM** in the evolving tech world.  
 - Encouraged **active participation** in STEM initiatives.  
 
----
-
 ## ⏰ 3:00 PM – 4:00 PM  
 ### 🎓 Expert Lecture by **Dr. Lakhvir Singh Khana** – *Auditorium*  
 - **Designation**: Incharge – CML.  
 - Focused on **collaborative modern learning methods**.  
 - Highlighted how adapting to **tech-driven approaches** can benefit students in the **long term**.
+
+---
+
+# 📅 Day 7 – 7 August 2025 (Thursday)
+
+## ⏰ 9:30 AM – 10:30 AM  
+### 🎤 Lecture by **Dr. Amit Kamra** – *Auditorium*  
+- **Designation**: Incharge, DMC.  
+- Highlighted the **role and importance** of the **Digital Media Cell** in:  
+  - Student engagement  
+  - College activities  
+
+## ⏰ 10:30 AM – 11:30 AM  
+### 🎤 Lecture by **Dr. Parminder Singh** – *Auditorium*  
+- **Designation**: Dean of Student Welfare.  
+- Discussed:  
+  - **Student well-being** and available **support systems**  
+  - **Co-curricular opportunities** on campus  
+
+## ⏰ 11:30 AM – 12:30 PM  
+### 🎤 Lecture by **Dr. Randhir Singh** – *Auditorium*  
+- Provided orientation on:  
+  - **Conduct of examinations**  
+  - **Attendance criteria**  
+  - **Internal assessments**  
+- Ensured students are **well-informed from the start**.  
+
+## ⏰ 12:30 PM – 1:30 PM  
+### ☕ Break  
+
+## ⏰ 1:30 PM – 2:30 PM  
+### 📘 English Lecture  
+- Covered:  
+  - **Syllabus structure**  
+  - **Types of assignments**  
+  - **Evaluation pattern**  
+- Guidance on **improving formal writing** and **communication skills**.  
+
+## ⏰ 2:30 PM – 3:30 PM  
+### ⚗️ Chemistry Lecture  
+- Continued **syllabus overview**.  
+- Brief discussion on **initial chapter**.  
+- Explained:  
+  - **Lab schedule**  
+  - **Assessment process**.
+___
+
+# 📅 Day 8 – 8 August 2025 (Friday)
+
+## ⏰ 9:00 AM – 10:30 AM  
+### 📐 Mathematics Lecture  
+- **Revision session** on **differential equations**.  
+- Reviewed:  
+  - **Key concepts**  
+  - **Common problem types**  
+- Aim: Strengthen understanding and problem-solving speed.  
+
+## ⏰ 10:30 AM – 12:00 PM  
+### 🎤 Lecture by **Prof. Jaswant Singh**  
+- Focus: **Problem-solving techniques**.  
+- Covered:  
+  - **Logical reasoning methods**  
+  - **Strategies** to approach academic challenges more effectively.  
+- Interactive examples to engage students in **critical thinking**.
